@@ -2,4 +2,5 @@ Hola mundo
 
 He vuelto a la rama master para mergear con rama1.
 
-Conflicto solventado.
+Conflicto solventado v2.
+
