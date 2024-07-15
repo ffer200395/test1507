@@ -4,3 +4,5 @@ He vuelto a la rama master para mergear con rama1.
 
 Conflicto solventado v2.
 
+Esto debe de añadirse a la rama master mediante una pull request.
+
